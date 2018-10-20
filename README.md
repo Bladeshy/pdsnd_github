@@ -6,6 +6,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+Explore Bikeshare Data with descriptive statistics
 
 ### Files used
 Include the files used
