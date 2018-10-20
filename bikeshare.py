@@ -118,7 +118,6 @@ def time_stats(df, city, month, day):
     
     """Displays statistics on the most frequent times of travel."""
 
-    #print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
     # TO DO: display the most common month
@@ -323,7 +322,7 @@ def main():
         display_data(df_raw)    
         print("\nThe entire programm took %s seconds." % (time.time() - start_time))
         print('-'*50)
-        # Possible restart of the programm
+        # Possible restart of the programm 
         restart = input('\nWould you like to restart? Enter "Yes" or "No".\n').lower()
         if restart.lower() != 'yes':
             break
