@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Include the date you created this project and README file: 2.10.2018
 
 ### Project Title
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does:
 Explore Bikeshare Data with descriptive statistics
 
 ### Files used
-Include the files used
+Include the files used:
 Washington.csv, New_York_City.csv and Chicago.csv are needed for the project
 
 ## Creators
