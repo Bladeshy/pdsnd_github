@@ -10,6 +10,7 @@ Explore Bikeshare Data with descriptive statistics
 
 ### Files used
 Include the files used
+Washington.csv, New_York_City.csv and Chicago.csv are needed for the project
 
 ## Creators
 
